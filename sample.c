@@ -1,4 +1,4 @@
-#include <SchooMyUtilities.h>
+#include <SchooMyUtilities.h>// 基礎プログラミングII 第3回 Scrummyプロジェクト
 SchooMyUtilities scmUtils = SchooMyUtilities();
 
 float brightness = 0;
